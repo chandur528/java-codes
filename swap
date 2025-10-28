@@ -1,0 +1,8 @@
+public class swap{
+public static void main(String args[]){
+int a=3;
+int b=4;
+System.out.println("before swapping a="+a+"b="+b);
+System.out.println("after swapping a="+b+"b="+a);
+}
+}
